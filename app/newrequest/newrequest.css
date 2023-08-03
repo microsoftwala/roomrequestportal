@@ -1,0 +1,229 @@
+/* .top{
+    height:162px;
+    width:100vw;
+    background-color:#D9D9D9;
+    display:flex;
+    align-items:center;
+}
+
+body{
+    overflow-x:hidden;
+}
+
+img{
+    height:80px;
+    width:80px;
+    border-radius:50%;
+    border:black;
+    float:left;
+    margin-right:20px;
+}
+
+body{
+    margin:0;
+}
+
+.second{
+    margin-top:50px;
+    display:flex;
+    flex-direction:row;
+}
+
+hr{
+    margin-top:30px;
+}
+
+.cn{
+    position:absolute;
+    left:50px;
+}
+
+.pn{
+    position:absolute;
+    left:200px;
+}
+
+.clgname{
+    position:absolute;
+    left:50px;
+    cursor:pointer;
+    align-items:center;
+}
+
+.logout{
+    position:absolute;
+    right:50px;
+    cursor:pointer;
+}
+
+.reqform{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+    width:100%;
+    margin-left:5%;
+    margin-right: 5%;
+}
+
+.namebox{
+    width:80vw;
+    height:55px;
+}
+
+.datetime{
+    display:flex;
+    flex-direction:row;
+    flex-wrap:wrap;
+    justify-content:space-around;
+    align-items:center;
+}
+
+.datebox{
+    width:533px;
+    height:62px;
+    margin-right:24px;
+}
+
+.startbox,.endbox{
+    width:252px;
+    height:62px;
+}
+
+.startbox{
+    margin-right:50px;
+}
+
+.halls{
+    display:flex;
+    justify-content:space-between;
+}
+
+.hallbox{
+    width:500px;
+}
+
+.expecbox{
+    width:533px;
+    margin-right:118px;
+}
+
+.staffbox{
+    width:1202px;
+    height:55px;
+}
+
+.reqbox{
+    width:1202px;
+    height:120px;
+}
+
+textarea{
+    background-color:#D9D9D9;
+    font-size:32px;
+}
+
+.submit{
+    width:330px;
+    height:61px;
+    margin-top:25px;
+    align:center;
+    background-color:#D9D9D9;
+}
+
+.calendaricon{
+    width:63px;
+    height:55px;
+    margin-top:60px;
+    margin-left:15px;
+    margin-right:15px;
+}
+
+.dropdown{
+    width:55px;
+    height:97px;
+    background-color:#D9D9D9;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    font-size:52px;
+    font-weight:lighter;
+    cursor:pointer;
+}
+
+.new{
+    display:flex;
+}
+
+@media(max-width:600px){
+    .datetime{
+        flex-direction:column;
+    }
+
+    .calendaricon{
+        display:none;
+    }
+
+    .datebox,.startbox,.endbox,.hallbox,.expecbox{
+        width:1200px;
+        font-size:30px;
+    }
+
+    .start,.end,.date,.name,.staffchoice,.request{
+        font-size:40px;
+    }
+
+    .start{
+        margin-left:50px;
+    }
+
+    .halls{
+        flex-direction:column;
+        margin-left:85px;
+    }
+
+    .npe,.ah{
+        margin-left:40px;
+        font-size:40px;
+    }
+
+    .ah{
+        width:1200px;
+    }
+
+    textarea{
+        font-size:30px;
+    }
+
+    .submit{
+        font-size:30px;
+    }
+
+    .top{
+        height:300px;
+        font-size:40px;
+        width:1800px;
+    }
+
+    .logout{
+        position:absolute;
+        right:-900px;
+    }
+
+    .clgname{
+        width:600px;
+    }
+    
+    hr{
+        width:1600px;
+        margin-top:50px;
+    }
+
+    .second{
+        font-size:32px;
+    }
+
+    .pn{
+        margin-left:200px;
+    }
+} */
